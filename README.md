@@ -1,7 +1,7 @@
 # image-mouseover
 
-![1](./images/1.PNG)
-![2](./images/1.PNG)
+![1](./images/1.png)
+![2](./images/2.png)
 <br/>
 <br/>
 
